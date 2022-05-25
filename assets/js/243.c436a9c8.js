@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxa_note_code=self.webpackChunkxa_note_code||[]).push([[243],{7243:(e,n,t)=>{t.r(n),t.d(n,{default:()=>c});var s=t(6252);const u={},c=(0,t(3744).Z)(u,[["render",function(e,n){return(0,s.wg)(),(0,s.iD)("div",null,"posts")}]])}}]);
